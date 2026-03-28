@@ -1,5 +1,5 @@
 # 🚀 StockSense AI – Opportunity Radar for Indian Investors
-
+🚀 Built for ET AI Hackathon 2026
 ## 🧠 Problem
 
 Retail investors often rely on guesswork, tips, and scattered information. They lack tools that convert complex stock data into clear, actionable decisions.
