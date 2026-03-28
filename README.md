@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## 🎥 Demo
 
-(Add your demo video link here)
+https://drive.google.com/file/d/1D4s1zIbLwhwLq89NwgvgvYGSPVplHPTs/view?usp=sharing
 
 ---
 
